@@ -1,0 +1,8 @@
+prefix=/home/uwe/pypkg_ws/install
+
+Name: for_testing_pkg
+Description: Description of for_testing_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

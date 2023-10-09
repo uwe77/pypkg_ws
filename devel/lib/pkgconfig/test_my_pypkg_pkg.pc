@@ -1,0 +1,8 @@
+prefix=/home/uwe/pypkg_ws/devel
+
+Name: test_my_pypkg_pkg
+Description: Description of test_my_pypkg_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

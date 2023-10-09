@@ -1,0 +1,8 @@
+prefix=/home/uwe/pypkg_ws/devel
+
+Name: my_robot_common
+Description: Description of my_robot_common
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

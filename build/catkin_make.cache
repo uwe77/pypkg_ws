@@ -1,0 +1,2 @@
+my_robot_common:test_my_pypkg_pkg
+-DCATKIN_DEVEL_PREFIX=/home/uwe/pypkg_ws/devel -DCMAKE_INSTALL_PREFIX=/home/uwe/pypkg_ws/install -G Unix Makefiles
